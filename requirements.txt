@@ -1,0 +1,9 @@
+# Assignment PDF, page 2: Python 3.10-3.12.
+# Initial dependency list only; installation and compatibility are not yet tested.
+pandas
+tables
+numpy
+scipy
+scikit-learn
+gensim>=4.3
+matplotlib

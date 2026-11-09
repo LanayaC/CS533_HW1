@@ -1,7 +1,8 @@
 """Part 2.2: continue a saved M1 on P2 and save a separate native model.
 
 Use --dry-run to validate paths and inspect M1 without updating its vocabulary,
-training, or creating output files. See notes/m2_training.md for commands.
+training, or creating output files. See notes/README.md for CLI entry points
+and saved result locations.
 """
 
 import argparse

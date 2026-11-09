@@ -1,7 +1,7 @@
 """Part 2.5 analysis of saved M1, continued M2, and fresh M3; never train/save models.
 
 Use --dry-run to validate paths and print the plan without loading models.
-See notes/semantic_drift.md for the command and measurement definitions.
+See notes/README.md for CLI entry points and saved measurement definitions.
 """
 
 import argparse

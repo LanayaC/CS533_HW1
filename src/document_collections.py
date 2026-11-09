@@ -7,7 +7,7 @@ Run from the repository root (paths are configurable)::
 
 The command loads HDF5, applies Part 1.2 cleaning, reconstructs collections,
 and ONLY THEN loads the official TSVs for validation. It writes no files.
-See notes/part_1_5_validation.md for definitions and reproduction instructions.
+See report/part1_draft.md for definitions and README.md for reproduction commands.
 """
 
 import argparse

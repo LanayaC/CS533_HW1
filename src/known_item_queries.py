@@ -5,7 +5,7 @@ Run from the repository root with configurable input paths::
     python -m src.known_item_queries --dataset ../data/articles_mapped.h5 \
         --official-dir ../data/nyt-tc-2026
 
-See notes/known_item_query_validation.md for the complete workflow.
+See report/part1_draft.md for the workflow and README.md for reproduction commands.
 """
 
 import argparse

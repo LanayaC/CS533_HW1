@@ -5,9 +5,10 @@ Preview without training or creating output directories::
     python -m src.train_m1 --corpus ../data/corpora/corpus_P1.txt \
         --model ../data/models/w2v_P1.model --dry-run
 
-Remove --dry-run only after approving the full training run. See
-notes/m1_training.md. Existing models, sidecars, and training reports are never
-replaced. All model artifacts must be outside this repository.
+Remove --dry-run only after approving the full training run. See notes/README.md
+for result locations and CLI entry points. Existing models, sidecars, and
+training reports are never replaced. All model artifacts must be outside this
+repository.
 """
 
 import argparse

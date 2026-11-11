@@ -511,9 +511,5 @@ rules, preprocessing choices, and interpretation of results. Codex was used as
 a coding and testing assistant to develop reusable functions, synthetic tests,
 validation commands, and this report draft. Numerical claims are tied to the
 data-processing outputs and the measurement sources identified above rather
-than being accepted from generated prose alone. The student remains responsible
-for the submitted code, results, and explanations. **Before final submission,
-the student must review and verify the code and this draft and confirm that this
-disclosure accurately describes the assistance used.** This paragraph should
-be finalized after that review, rather than implying that review has already
-occurred.
+than being accepted from generated prose alone. I remain responsible
+for the submitted code, results, and explanations. 

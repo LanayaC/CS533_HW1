@@ -1,11 +1,13 @@
-# Assignment PDF, page 2: Python 3.10-3.12.
-# Initial dependency list only; installation and compatibility are not yet tested.
-pandas
-tables
-numpy
-scipy
-scikit-learn
-gensim>=4.3
-matplotlib
-# Part 4.1 independent metric validation (imports as pytrec_eval).
+
+# CS533 Homework 1
+# Tested environment: Python 3.12.7, Windows
+
+pandas==3.1.0
+tables==3.11.1
+numpy==2.5.4
+scipy==1.18.1
+scikit-learn==1.9.1
+gensim==4.4.0
+matplotlib==3.11.2
+psutil==7.2.2
 pytrec-eval-terrier==0.5.11
